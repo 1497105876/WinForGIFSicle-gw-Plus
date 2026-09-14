@@ -30,4 +30,4 @@
 ## 致谢
 
 - [gifsicle](https://www.lcdf.org/gifsicle/) — Eddie Kohler 的 GIF 处理命令行工具
-- [WinForGIFSicle](https://github.com/OriginalWinForGIFSicle) — 原版 GUI 项目参考
+- [WinForGIFSicle](https://github.com/dandll/WinForGIFSicle) — 原版 GUI 项目参考
